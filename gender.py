@@ -1,0 +1,8 @@
+#Program to demostrate Gender
+str = input("Enter a gender name:");
+if (str == "raju") :
+    print("Entered gender is male");
+elif (str == "ramya") :
+    print("Entered gender is female");
+else :
+    print("Entered gender is others");	
