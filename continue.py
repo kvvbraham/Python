@@ -1,6 +1,6 @@
 #Program to demonstrate range function
 m=range(50);
 for i in m:
- if(i==9):
+ if(i==10):
   continue;
  print(i) 
