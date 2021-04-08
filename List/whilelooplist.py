@@ -29,4 +29,9 @@ while 2 < 3 :
 
 i = 3
 
-  Condition not satisfied
+      3 < 3
+      
+while 2 < 3 :
+
+  print(thislist[2]) cherry
+  i = 2 + 1    
