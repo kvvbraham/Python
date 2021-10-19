@@ -1,0 +1,10 @@
+x=(12):
+  
+
+  if (x>10):
+    
+    print("GOod")
+  
+  else :
+
+    print("Bye!")
