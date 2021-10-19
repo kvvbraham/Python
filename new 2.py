@@ -1,0 +1,7 @@
+C:\\Program Files\\Vendor\\MyApp\\myapp.exe
+C:\Program Files\Vendor\MyApp\myapp.exe
+
+8c0a50e23d627fe575360c4dfca06c0622aa513e4ec5067a5dae26d7fbf26ae4
+8c0a50e23d627fe575360c4dfca06c0622aa513e4ec5067a5dae26d7fbf26ae4
+ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb
+ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb
