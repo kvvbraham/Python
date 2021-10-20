@@ -1,1 +1,1 @@
-This is demostarate for git pull concept
+This is demostarate of  git pull concept
